@@ -1,0 +1,29 @@
+.weatherDataCont{
+    width: 40vw;
+    height: 10vw;
+    line-height: 10vw;
+}
+.weatherExtraInfoCont{
+    background: #ccc;
+    border-radius: 20px;
+    width: 39%;
+    margin-left: 1%;
+    display: inline-block;
+}
+.weatherTemperatureCont{
+    display: inline-block;
+    width: 60%;
+    background: #ccc;
+    border-radius: 20px;
+}
+.temperature{
+    font-size: 3vw;
+    font-weight: bold;
+    padding-left: 20px;
+    color: #222;
+}
+.temperatureType{
+    font-size: 2vw;
+    font-weight: bold;
+    color: #222;
+}
